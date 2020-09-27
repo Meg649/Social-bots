@@ -1,1 +1,1 @@
-# Social-bots
+# Social-bots-Technical-seminar
